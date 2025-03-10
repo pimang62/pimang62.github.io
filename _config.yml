@@ -7,8 +7,8 @@ title: Ye Rin Kim
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: ~/Desktop/김예린_증명사진.JPG
+external-image: true
+picture: https://drive.google.com/file/d/1A8VGcP06NzM2umDe7EO4CCV-isgVQcnb/view?usp=sharing
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -45,21 +45,21 @@ authors:
   yerin:
     name: Ye Rin Kim
     # bio: Standing on the Shoulders of Giants
-    external-image: false
-    picture: ~/Desktop/김예린_증명사진.JPG 
+    external-image: true
+    picture: https://drive.google.com/file/d/1A8VGcP06NzM2umDe7EO4CCV-isgVQcnb/view?usp=sharing
     # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
-
-# if you don't need "about" or "blog", comment them out below
-about: true
-# blog: true
+width: large
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
