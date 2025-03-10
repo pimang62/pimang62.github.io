@@ -7,8 +7,8 @@ title: Ye Rin Kim
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://drive.google.com/file/d/1A8VGcP06NzM2umDe7EO4CCV-isgVQcnb/view?usp=sharing
+external-image: false
+picture: assets/images/yerin_kim.JPG
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -45,8 +45,8 @@ authors:
   yerin:
     name: Ye Rin Kim
     # bio: Standing on the Shoulders of Giants
-    external-image: true
-    picture: https://drive.google.com/file/d/1A8VGcP06NzM2umDe7EO4CCV-isgVQcnb/view?usp=sharing
+    external-image: false
+    picture: assets/images/yerin_kim.JPG
     # twitter: johndoe
 
 # do you want a larger site? change the option below
